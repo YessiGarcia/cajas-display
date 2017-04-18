@@ -9,6 +9,8 @@
 }
  
  .caja2 {
+     width: 170px;
+     height: 50px;
      display: block;
      position: relative;
      border: 1px solid black;
